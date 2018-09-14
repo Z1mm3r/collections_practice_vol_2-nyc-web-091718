@@ -13,6 +13,6 @@ end
 def contain_a (array)
   
   array.select do |element|
-    if(element.includes?)
+    if(element.include?('a'))
   
 end
