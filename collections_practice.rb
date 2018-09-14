@@ -43,8 +43,25 @@ def remove_non_strings(array)
       FALSE
     end
   end
+end
+
+def count_elements(array)
+  
+  count = 0
+  
+  array.each do |element|
+    if
   
 end
+
+
+
+
+
+
+
+
+
 
 
 
