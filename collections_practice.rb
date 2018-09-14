@@ -8,3 +8,11 @@ def begins_with_r (tools)
     end
   end
 end
+
+
+def contain_a (array)
+  
+  array.select do |element|
+    if(element.)
+  
+end
