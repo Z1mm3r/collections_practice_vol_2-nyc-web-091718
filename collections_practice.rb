@@ -30,3 +30,6 @@ def first_wa (array)
       FALSE
     end
   end
+end
+
+
