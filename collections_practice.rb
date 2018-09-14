@@ -47,10 +47,6 @@ end
 
 def count_elements(array)
   
-  count = 0
-  
-  array.each do |element|
-    if
   
 end
 
