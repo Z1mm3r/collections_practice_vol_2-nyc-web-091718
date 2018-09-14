@@ -19,5 +19,14 @@ def contain_a (array)
       FALSE
     end
   end
-  
 end
+
+def first_wa (array)
+  
+  array.find do |element|
+    if(element[0,2] == "wa")
+      TRUE
+    else
+      FALSE
+    end
+  end
