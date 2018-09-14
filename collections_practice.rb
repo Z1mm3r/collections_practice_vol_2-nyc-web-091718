@@ -36,7 +36,7 @@ def remove_non_strings(array)
   
   string = ""
   
-  array.collect do |element|
+  array.select do |element|
     if(element.class == string.class )
       TRUE
     else
